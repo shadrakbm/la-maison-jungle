@@ -27,7 +27,6 @@ export const plantList = [
 		cover: lyrata,
 		price: 16
 	},
-
 	{
 		name: 'pothos argenté',
 		category: 'classique',
@@ -35,7 +34,6 @@ export const plantList = [
 		light: 1,
 		water: 2,
 		cover: pothos,
-
 		price: 9
 	},
 	{
@@ -45,7 +43,6 @@ export const plantList = [
 		light: 2,
 		water: 3,
 		cover: calathea,
-
 		price: 20
 	},
 	{
@@ -57,7 +54,6 @@ export const plantList = [
 		cover: olivier,
 		price: 25
 	},
-
 	{
 		name: 'cactus',
 		category: 'plante grasse',
@@ -85,7 +81,6 @@ export const plantList = [
 		cover: succulent,
 		price: 8
 	},
-
 	{
 		name: 'menthe',
 		category: 'extérieur',
