@@ -1,5 +1,6 @@
+import '../style/Footer.css'
+
 import { useState } from 'react'
-import '../styles/Footer.css'
 
 export default function Footer() {
 	const [inputValue, setInputValue] = useState('')
